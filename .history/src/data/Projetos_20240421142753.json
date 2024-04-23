@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nome_projeto": "LifeCycle",
+        "router": "/lifecycle"
+    },
+    {
+        "id": 2,
+        "nome_projeto": "Diretivas",
+        "router": "/diretivas"
+    }
+]
