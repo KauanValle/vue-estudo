@@ -1,4 +1,4 @@
-# estudo
+# Vue Estudo
 
 ## Project setup
 ```
